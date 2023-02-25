@@ -1,0 +1,17 @@
+{
+  "name": "discord-studio",
+  "version": "1.0.0",
+  "description": "Simple tool for create your own Discord Bot.",
+  "main": "index.js",
+  "repository": "https://github.com/Terracrow/DiscordStudio",
+  "author": "Terra",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "quick.db": "^9.0.8"
+  },
+  "devDependencies": {
+    "electron": "^23.1.1"
+  }
+}
