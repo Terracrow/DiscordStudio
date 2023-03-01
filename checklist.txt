@@ -1,9 +1,0 @@
-1. Création du bot:
-- Interface
-- Code djs
-- Config token, prefix, pfp, nom...
-
-2. Configuration de nouvelles commandes
-- Interface
-- Code djs
-- Enregistrement
